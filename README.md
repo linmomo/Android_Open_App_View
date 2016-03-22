@@ -26,3 +26,14 @@
 * [使用Rxjava重构煎蛋高仿](https://github.com/ZhaoKaiQiang/JianDanRxJava)
 * [贴纸标签相机,功能:拍照,相片裁剪,给图片贴贴纸,打标签](https://github.com/Skykai521/StickerCamera)
 * [dhroid 是基于android 平台, 极速开发框架，其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展.使你更快,更好的开发商业级别应用 ](http://git.oschina.net/tengzhinei/dhroid)
+
+##**自定义View**
+* [TagCloudView是一个完全基于Android ViewGroup编写的控件，支持将一组View展示为一个3D球形集合，并支持全方向滚动。](https://github.com/misakuo/3dTagCloudAndroid)
+* [动画-漫天飞雪](http://www.jianshu.com/p/54daee8ae2a9)
+* [android版高仿喵街主页滑动效果](http://www.jianshu.com/p/a2c3c21e3b99)
+* [一款炫酷Loading动画--加载成功](http://blog.csdn.net/crazy__chen/article/details/50270281)
+* [四步实现ChromeLikeSwipeLayout效果](http://www.jianshu.com/p/d6b4a9ad022e)
+* [Android 中 View 炸裂特效的实现分析](http://blog.csdn.net/feelang/article/details/48817145)
+
+## **链接**
+* [攻城师Sloop的微博客-自定义view教程](https://github.com/GcsSloop/SloopBlog)
