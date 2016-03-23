@@ -27,6 +27,7 @@
 * [使用Rxjava重构煎蛋高仿](https://github.com/ZhaoKaiQiang/JianDanRxJava)
 * [贴纸标签相机,功能:拍照,相片裁剪,给图片贴贴纸,打标签](https://github.com/Skykai521/StickerCamera)
 * [dhroid 是基于android 平台, 极速开发框架，其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展.使你更快,更好的开发商业级别应用 ](http://git.oschina.net/tengzhinei/dhroid)
+* [一个前期仿Material Design的发表分享的Android客户端](https://github.com/jiyiren/mjoke)
 
 ##**自定义View**
 * [TagCloudView是一个完全基于Android ViewGroup编写的控件，支持将一组View展示为一个3D球形集合，并支持全方向滚动。](https://github.com/misakuo/3dTagCloudAndroid)
