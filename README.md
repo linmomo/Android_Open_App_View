@@ -8,6 +8,7 @@
 * [积木 - 一个以知乎日报作为数据展现内容；以抽屉菜单作为功能扩展入口；遵循 Material Design 设计规范的应用](https://github.com/tangqi92/BuildingBlocks/blob/dev/README.z.md)
 * [闲暇(Leisure)是一款集"知乎日报"、“果壳科学人”、“新华网新闻”以及“豆瓣图书”于一体的阅读类Android应用](https://github.com/MummyDing/Leisure)
 * [知乎日报客户端，Rxjava + Retrofit实践](https://github.com/Runpop/RxZhihuPager)
+* [DAILY是一个非官方的基于MVVM架构的知乎日报APP-dagger2,data binding](https://github.com/liuguangqiang/Idaily)
 * [gank.io非官方客户端，使用RxJava & Retrofit](https://github.com/drakeet/Meizhi)
 * [gank.io开源项目](https://github.com/oxoooo/mr-mantou-android)
 * [gank.io学习RxJava，Retrofit等优秀开源框架以及MVP设计模式的产物](https://github.com/Panl/Gank.io)
