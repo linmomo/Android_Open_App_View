@@ -37,6 +37,7 @@
 * [一款炫酷Loading动画--加载成功](http://blog.csdn.net/crazy__chen/article/details/50270281)
 * [四步实现ChromeLikeSwipeLayout效果](http://www.jianshu.com/p/d6b4a9ad022e)
 * [Android 中 View 炸裂特效的实现分析](http://blog.csdn.net/feelang/article/details/48817145)
+* [立体方格渐显](https://github.com/david-wei/CubeGrid)
 
 ## **链接**
 * [攻城师Sloop的微博客-自定义view教程](https://github.com/GcsSloop/SloopBlog)
