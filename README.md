@@ -42,6 +42,7 @@
 * [立体方格渐显](https://github.com/david-wei/CubeGrid)
 * [区域点赞](https://github.com/CaMnter/EasyLikeArea)
 * [android指纹识别动画](https://github.com/mattprecious/swirl)
+* [一个炫酷的SearchView搜索动画库](https://github.com/android-cjj/JJSearchViewAnim/blob/master/README-CN.md)
 
 ## **链接**
 * [攻城师Sloop的微博客-自定义view教程](https://github.com/GcsSloop/SloopBlog)
