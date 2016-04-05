@@ -29,6 +29,8 @@
 * [贴纸标签相机,功能:拍照,相片裁剪,给图片贴贴纸,打标签](https://github.com/Skykai521/StickerCamera)
 * [dhroid 是基于android 平台, 极速开发框架，其核心设计目标是开发迅速、代码量少、学习简单、功能强大、轻量级、易扩展.使你更快,更好的开发商业级别应用 ](http://git.oschina.net/tengzhinei/dhroid)
 * [一个前期仿Material Design的发表分享的Android客户端](https://github.com/jiyiren/mjoke)
+* [一个Android拼图的demo](https://github.com/newtonker/JigsawDemo)
+* [一个轻量级的手写板Demo](https://github.com/SmartDengg/SmartDrawing)
 
 ##**自定义View**
 * [TagCloudView是一个完全基于Android ViewGroup编写的控件，支持将一组View展示为一个3D球形集合，并支持全方向滚动。](https://github.com/misakuo/3dTagCloudAndroid)
@@ -39,6 +41,7 @@
 * [Android 中 View 炸裂特效的实现分析](http://blog.csdn.net/feelang/article/details/48817145)
 * [立体方格渐显](https://github.com/david-wei/CubeGrid)
 * [区域点赞](https://github.com/CaMnter/EasyLikeArea)
+* [android指纹识别动画](https://github.com/mattprecious/swirl)
 
 ## **链接**
 * [攻城师Sloop的微博客-自定义view教程](https://github.com/GcsSloop/SloopBlog)
