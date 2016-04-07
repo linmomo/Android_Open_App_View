@@ -43,6 +43,8 @@
 * [区域点赞](https://github.com/CaMnter/EasyLikeArea)
 * [android指纹识别动画](https://github.com/mattprecious/swirl)
 * [一个炫酷的SearchView搜索动画库](https://github.com/android-cjj/JJSearchViewAnim/blob/master/README-CN.md)
+* [在 Android 上模拟 Siri 录音动效](https://github.com/rakkang/SiriWaveframe)
+* [小红书欢迎引导第二版](https://github.com/w446108264/XhsWelcomeAnim)
 
 ## **链接**
 * [攻城师Sloop的微博客-自定义view教程](https://github.com/GcsSloop/SloopBlog)
