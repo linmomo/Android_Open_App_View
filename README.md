@@ -46,6 +46,8 @@
 * [一个炫酷的SearchView搜索动画库](https://github.com/android-cjj/JJSearchViewAnim/blob/master/README-CN.md)
 * [在 Android 上模拟 Siri 录音动效](https://github.com/rakkang/SiriWaveframe)
 * [小红书欢迎引导第二版](https://github.com/w446108264/XhsWelcomeAnim)
+* [高仿 path下拉小球，类似IOS果冻效果](https://github.com/ImmortalZ/jellyball)
+* [3d旋转切换view，类似旋转木马效果。可以自动切换！](https://github.com/dalong982242260/LoopRotarySwitch)
 
 ## **链接**
 * [攻城师Sloop的微博客-自定义view教程](https://github.com/GcsSloop/SloopBlog)
