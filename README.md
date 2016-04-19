@@ -49,6 +49,7 @@
 * [高仿 path下拉小球，类似IOS果冻效果](https://github.com/ImmortalZ/jellyball)
 * [3d旋转切换view，类似旋转木马效果。可以自动切换！](https://github.com/dalong982242260/LoopRotarySwitch)
 * [一款加载动画，不同的物体加速下落砸到了文字上，文字逞阻尼效果，向下弯曲并像橡皮筋一样弹动回去的效果](https://github.com/Huyamin150/-dampView-springingView)
+* [正多边形的统计图，支持任意边数的多边形](https://github.com/GordenXiao/PolygonChart)
 
 ## **链接**
 * [攻城师Sloop的微博客-自定义view教程](https://github.com/GcsSloop/SloopBlog)
