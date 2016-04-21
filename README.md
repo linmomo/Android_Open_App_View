@@ -32,6 +32,7 @@
 * [一个Android拼图的demo](https://github.com/newtonker/JigsawDemo)
 * [一个轻量级的手写板Demo](https://github.com/SmartDengg/SmartDrawing)
 * [android-boilerplate 使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例](https://github.com/hitherejoe/Android-Boilerplate)
+* [一个稳定好用的android计步器源代码](https://github.com/xfmax/BasePedo)
 
 ##**自定义View**
 * [TagCloudView是一个完全基于Android ViewGroup编写的控件，支持将一组View展示为一个3D球形集合，并支持全方向滚动。](https://github.com/misakuo/3dTagCloudAndroid)
