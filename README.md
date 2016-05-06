@@ -34,6 +34,7 @@
 * [android-boilerplate 使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例](https://github.com/hitherejoe/Android-Boilerplate)
 * [一个稳定好用的android计步器源代码](https://github.com/xfmax/BasePedo)
 * [一个小而美的阅读客户端](https://github.com/YiuChoi/MicroReader)
+* [轻量级显示Github用户的贡献、星数、Follower数、热门仓库的App](https://github.com/Nightonke/GithubWidget/blob/master/README-ZH.md)
 
 ##**自定义View**
 * [TagCloudView是一个完全基于Android ViewGroup编写的控件，支持将一组View展示为一个3D球形集合，并支持全方向滚动。](https://github.com/misakuo/3dTagCloudAndroid)
