@@ -57,6 +57,7 @@
 * [Android平台室内地图控件MapView ](https://github.com/onlylemi/MapView)
 * [播放控件悬浮View](https://github.com/Cleveroad/MusicBobber)
 * [这是一个切割时间的表盘](https://github.com/DuanTzXavier/conciseclock)
+* [这是Android一个雷达扫描显示的扫描图，超高仿QQ附近的人搜索展示](https://github.com/ImmortalZ/RadarScan)
 
 ## **链接**
 * [攻城师Sloop的微博客-自定义view教程](https://github.com/GcsSloop/SloopBlog)
