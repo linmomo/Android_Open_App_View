@@ -35,6 +35,7 @@
 * [一个稳定好用的android计步器源代码](https://github.com/xfmax/BasePedo)
 * [一个小而美的阅读客户端](https://github.com/YiuChoi/MicroReader)
 * [轻量级显示Github用户的贡献、星数、Follower数、热门仓库的App](https://github.com/Nightonke/GithubWidget/blob/master/README-ZH.md)
+* [一个恋爱社交APP，MVP+RxJava+Dagger2+LeanCloud+MaterialDesign ](https://github.com/rogerou/Baby)
 
 ##**自定义View**
 * [TagCloudView是一个完全基于Android ViewGroup编写的控件，支持将一组View展示为一个3D球形集合，并支持全方向滚动。](https://github.com/misakuo/3dTagCloudAndroid)
@@ -58,6 +59,9 @@
 * [播放控件悬浮View](https://github.com/Cleveroad/MusicBobber)
 * [这是一个切割时间的表盘](https://github.com/DuanTzXavier/conciseclock)
 * [这是Android一个雷达扫描显示的扫描图，超高仿QQ附近的人搜索展示](https://github.com/ImmortalZ/RadarScan)
+* [一键测出你与照片中物体的距离](https://github.com/shixinzhang/DistanceMeasure)
+* [滑动卡片的view](https://github.com/Meetic/Shuffle)
+* [各种聊天气泡](https://github.com/MasayukiSuda/BubbleLayout)
 
 ## **链接**
 * [攻城师Sloop的微博客-自定义view教程](https://github.com/GcsSloop/SloopBlog)
