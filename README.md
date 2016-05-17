@@ -62,6 +62,9 @@
 * [一键测出你与照片中物体的距离](https://github.com/shixinzhang/DistanceMeasure)
 * [滑动卡片的view](https://github.com/Meetic/Shuffle)
 * [各种聊天气泡](https://github.com/MasayukiSuda/BubbleLayout)
+* [仿汽车报价大全的sidebar](https://github.com/AlexLiuSheng/AnimSideBar)
+* [tv常用效果控件，包括焦点、边框处理等。](https://github.com/evilbinary/TvWidget)
+* [一个自定义粘性控件 ](https://github.com/smartbetter/GooView)
 
 ## **链接**
 * [攻城师Sloop的微博客-自定义view教程](https://github.com/GcsSloop/SloopBlog)
