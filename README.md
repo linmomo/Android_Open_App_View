@@ -37,6 +37,8 @@
 * [轻量级显示Github用户的贡献、星数、Follower数、热门仓库的App](https://github.com/Nightonke/GithubWidget/blob/master/README-ZH.md)
 * [一个恋爱社交APP，MVP+RxJava+Dagger2+LeanCloud+MaterialDesign ](https://github.com/rogerou/Baby)
 * [sailorcast - 水手放映室 是一个面向Android设备的互联网免费视频播放客户端](https://github.com/fire3/sailorcast)
+* [一个制作明信片图片的app](https://github.com/hugeterry/superXingPostCard)
+* [这个repo是YouJoin社交平台的Android客户端](https://github.com/FreedomZZQ/YouJoin-Android)
 
 ##**自定义View**
 * [TagCloudView是一个完全基于Android ViewGroup编写的控件，支持将一组View展示为一个3D球形集合，并支持全方向滚动。](https://github.com/misakuo/3dTagCloudAndroid)
