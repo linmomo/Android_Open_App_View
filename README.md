@@ -64,7 +64,6 @@
 * [这是Android一个雷达扫描显示的扫描图，超高仿QQ附近的人搜索展示](https://github.com/ImmortalZ/RadarScan)
 * [一键测出你与照片中物体的距离](https://github.com/shixinzhang/DistanceMeasure)
 * [滑动卡片的view](https://github.com/Meetic/Shuffle)
-* [各种聊天气泡](https://github.com/MasayukiSuda/BubbleLayout)
 * [仿汽车报价大全的sidebar](https://github.com/AlexLiuSheng/AnimSideBar)
 * [tv常用效果控件，包括焦点、边框处理等。](https://github.com/evilbinary/TvWidget)
 * [一个自定义粘性控件 ](https://github.com/smartbetter/GooView)
