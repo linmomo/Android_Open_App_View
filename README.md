@@ -70,3 +70,4 @@
 
 ## **链接**
 * [攻城师Sloop的微博客-自定义view教程](https://github.com/GcsSloop/SloopBlog)
+* [自定义View教程](https://github.com/Idtk/Blog/tree/master/Blog)
