@@ -39,6 +39,8 @@
 * [sailorcast - 水手放映室 是一个面向Android设备的互联网免费视频播放客户端](https://github.com/fire3/sailorcast)
 * [一个制作明信片图片的app](https://github.com/hugeterry/superXingPostCard)
 * [这个repo是YouJoin社交平台的Android客户端](https://github.com/FreedomZZQ/YouJoin-Android)
+* [Android Markdown编辑器](https://github.com/qinci/MarkdownEditors)
+* [汽车助手:消费信息的增删改查;消费记录、百分比统计表;百公里油耗曲线图,最低油耗/最高油耗信息图表显示](https://github.com/qyxxjd/CarAssistant)
 
 ##**自定义View**
 * [TagCloudView是一个完全基于Android ViewGroup编写的控件，支持将一组View展示为一个3D球形集合，并支持全方向滚动。](https://github.com/misakuo/3dTagCloudAndroid)
