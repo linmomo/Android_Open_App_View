@@ -42,6 +42,7 @@
 * [Android Markdown编辑器](https://github.com/qinci/MarkdownEditors)
 * [汽车助手:消费信息的增删改查;消费记录、百分比统计表;百公里油耗曲线图,最低油耗/最高油耗信息图表显示](https://github.com/qyxxjd/CarAssistant)
 * [支持拖动排序的富文本编辑器](https://github.com/Hitomis/SortRichEditor)
+* [Android平台下的原生Markdown解析器](https://github.com/zzhoujay/Markdown)
 
 ##**自定义View**
 * [TagCloudView是一个完全基于Android ViewGroup编写的控件，支持将一组View展示为一个3D球形集合，并支持全方向滚动。](https://github.com/misakuo/3dTagCloudAndroid)
