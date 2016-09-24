@@ -43,6 +43,7 @@
 * [支持拖动排序的富文本编辑器](https://github.com/Hitomis/SortRichEditor)
 * [Android平台下的原生Markdown解析器](https://github.com/zzhoujay/Markdown)
 * [一款炫酷时尚的音乐播放器](https://github.com/ryanhoo/StylishMusicPlayer)
+* [UPMiss生日管理软件,mvpUI,ui优美](https://github.com/qiujuer/UPMiss)
 
 ##**自定义View**
 * [TagCloudView是一个完全基于Android ViewGroup编写的控件，支持将一组View展示为一个3D球形集合，并支持全方向滚动。](https://github.com/misakuo/3dTagCloudAndroid)
