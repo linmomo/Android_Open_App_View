@@ -42,8 +42,11 @@
 * [汽车助手:消费信息的增删改查;消费记录、百分比统计表;百公里油耗曲线图,最低油耗/最高油耗信息图表显示](https://github.com/qyxxjd/CarAssistant)
 * [支持拖动排序的富文本编辑器](https://github.com/Hitomis/SortRichEditor)
 * [Android平台下的原生Markdown解析器](https://github.com/zzhoujay/Markdown)
-* [一款炫酷时尚的音乐播放器](https://github.com/ryanhoo/StylishMusicPlayer)
-* [UPMiss生日管理软件,mvpUI,ui优美](https://github.com/qiujuer/UPMiss)
+* [一个超棒的 Android Music Player](https://github.com/ryanhoo/StylishMusicPlayer)
+* [一个完整的生日管理 App: UPMiss 开源了](https://github.com/qiujuer/UPMiss)
+* [一个第三方微博（不使用官方SDK）](http://werb.github.io/2016/09/11/%E4%B8%9A%E4%BD%99%E6%97%B6%E9%97%B4%E5%86%99%E4%BA%86%E4%B8%80%E4%B8%AA%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BE%AE%E5%8D%9A%EF%BC%88%E4%B8%8D%E4%BD%BF%E7%94%A8%E5%AE%98%E6%96%B9SDK%EF%BC%89/)
+* [目前来看 Android 上最棒的一款富文本编辑器](https://github.com/wasabeef/richeditor-android)
+* [任阅小说阅读器，高仿追书神器，实现追书推荐、标签检索、3D仿真翻页效果、文章阅读、缓存章节、日夜间模式、文本朗读等功能](https://github.com/JustWayward/BookReader)
 
 ##**自定义View**
 * [TagCloudView是一个完全基于Android ViewGroup编写的控件，支持将一组View展示为一个3D球形集合，并支持全方向滚动。](https://github.com/misakuo/3dTagCloudAndroid)
