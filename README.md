@@ -32,6 +32,7 @@
 	* [基于 Material Design 的 BiliBili 第三方 Android 客户端](https://github.com/Qixingchen/MD-BiliBili)
 	* [sailorcast - 水手放映室 是一个面向Android设备的互联网免费视频播放客户端](https://github.com/fire3/sailorcast)
 	* [一个超棒的 Android Music Player](https://github.com/ryanhoo/StylishMusicPlayer)
+	* [1、仿泰捷视频最新TV版 Metro UI效果. 2、仿腾讯视频TV版(云视听·极光) 列表页](https://github.com/hejunlin2013/TVSample)	
 * Other
 	* [Bmob im sdk开源](https://github.com/bmob/bmob-android-im-sdk)
 	* [AppPlus是一个可以用于传送Apk文件，提取APK文件等的工具软件](https://github.com/maoruibin/AppPlus/blob/master/doc/README_CN.md)
