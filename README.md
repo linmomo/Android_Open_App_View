@@ -23,6 +23,7 @@
   * [支持拖动排序的富文本编辑器](https://github.com/Hitomis/SortRichEditor)
   * [任阅小说阅读器，高仿追书神器，实现追书推荐、标签检索、3D仿真翻页效果、文章阅读、缓存章节、日夜间模式、文本朗读等功能](https://github.com/JustWayward/BookReader)
   * [一个小而美的阅读客户端](https://github.com/YiuChoi/MicroReader)
+  * [完成度很高的一款 ePub Android 阅读器](https://github.com/FolioReader/FolioReader-Android)
 * 仿微信/微博
   * [基于融云跨平台(Android,iOS,web)的 IM 开源项目](https://github.com/sealtalk/sealtalk-android/blob/master/README.zh.md)	
   * [超仿微信 android项目 IM](https://github.com/huangfangyi/FanXin2.0_IM)
