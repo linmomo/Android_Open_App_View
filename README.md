@@ -16,6 +16,7 @@
   * [gank.io学习RxJava，Retrofit等优秀开源框架以及MVP设计模式的产物](https://github.com/Panl/Gank.io)
   * [一个看妹纸与开发资讯的Android APP，具有本地缓存、分享与添加收藏的功能](https://github.com/IvorHu/RealStuff) 
   * [react-native主题换色，夜间模式，省流量策略Gank.io](https://github.com/wangdicoder/react-native-Gank/blob/master/README.zh-cn.md)
+  * [『假装看天气』一款集天气 & 公交 & 闲读 & 妹纸 的 Android 客户端](https://github.com/li-yu/FakeWeather)
 * 阅读/编辑器类
   * [Android Markdown编辑器](https://github.com/qinci/MarkdownEditors)   
   * [Android平台下的原生Markdown解析器](https://github.com/zzhoujay/Markdown)
@@ -36,6 +37,8 @@
   * [一个超棒的 Android Music Player](https://github.com/ryanhoo/StylishMusicPlayer)
   * [1、仿泰捷视频最新TV版 Metro UI效果. 2、仿腾讯视频TV版(云视听·极光) 列表页](https://github.com/hejunlin2013/TVSample)	
   * [非常漂亮的一款 Android Movie 工具](https://github.com/lawloretienne/MovieHub)
+  * [仿网易云音乐 安卓版](https://github.com/aa112901/remusic)
+  * [一个超漂亮的音乐播放器！尤其是音频的可视化功能，超炫酷](https://github.com/harjot-oberai/MusicStreamer)
 * Other
   * [Bmob im sdk开源](https://github.com/bmob/bmob-android-im-sdk)
   * [AppPlus是一个可以用于传送Apk文件，提取APK文件等的工具软件](https://github.com/maoruibin/AppPlus/blob/master/doc/README_CN.md)
