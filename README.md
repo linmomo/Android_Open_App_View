@@ -39,12 +39,15 @@
   * [非常漂亮的一款 Android Movie 工具](https://github.com/lawloretienne/MovieHub)
   * [仿网易云音乐 安卓版](https://github.com/aa112901/remusic)
   * [一个超漂亮的音乐播放器！尤其是音频的可视化功能，超炫酷](https://github.com/harjot-oberai/MusicStreamer)
+  * [一款优雅的遵循 Material Design 的开源音乐播放器](https://github.com/hefuyicoder/ListenerMusicPlayer)
+* 天气
+  * [RxJava+RxAndroid+Retrofit+Glide+Material Design Weather App](https://github.com/xcc3641/SeeWeather)
+  * [一款简洁，实用，美观的天气应用，通过源码还能学到更多(自定义View)](https://github.com/SilenceDut/KnowWeather)
 * Other
   * [Bmob im sdk开源](https://github.com/bmob/bmob-android-im-sdk)
   * [AppPlus是一个可以用于传送Apk文件，提取APK文件等的工具软件](https://github.com/maoruibin/AppPlus/blob/master/doc/README_CN.md)
   * [Android项目实战，手机安全小卫士](https://github.com/msAndroid/MobileSafer)
   * [开源的 Material Design 豆瓣客户端](https://github.com/DreaminginCodeZH/Douya)
-  * [RxJava+RxAndroid+Retrofit+Glide+Material Design Weather App](https://github.com/xcc3641/SeeWeather)
   * [微信抢红包外挂源码](https://github.com/lendylongli/qianghongbao)
   * [Coding Android 客户端源代码](https://coding.net/u/coding/p/Coding-Android/git)
   * [使用Rxjava重构煎蛋高仿](https://github.com/ZhaoKaiQiang/JianDanRxJava)
@@ -60,5 +63,4 @@
   * [这个repo是YouJoin社交平台的Android客户端](https://github.com/FreedomZZQ/YouJoin-Android)
   * [汽车助手:消费信息的增删改查;消费记录、百分比统计表;百公里油耗曲线图,最低油耗/最高油耗信息图表显示](https://github.com/qyxxjd/CarAssistant)
   * [一个完整的生日管理 App: UPMiss 开源了](https://github.com/qiujuer/UPMiss)
-  * [一款简洁，实用，美观的天气应用，通过源码还能学到更多(自定义View)](https://github.com/SilenceDut/KnowWeather)
-
+  * [虽然是个简单的 Android App，但是几乎囊括了多数很酷的 Android 库和开发方法，测试方法，相当赞的一个值得学习的项目](https://github.com/athkalia/Just-Another-Android-App) 
