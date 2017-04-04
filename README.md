@@ -66,3 +66,5 @@
   * [汽车助手:消费信息的增删改查;消费记录、百分比统计表;百公里油耗曲线图,最低油耗/最高油耗信息图表显示](https://github.com/qyxxjd/CarAssistant)
   * [一个完整的生日管理 App: UPMiss 开源了](https://github.com/qiujuer/UPMiss)
   * [虽然是个简单的 Android App，但是几乎囊括了多数很酷的 Android 库和开发方法，测试方法，相当赞的一个值得学习的项目](https://github.com/athkalia/Just-Another-Android-App) 
+  * [基于MVP架构和Material Design设计风格，采用RxJava2, Retrofit2, Realm and ZXing开发的快递查询App](https://github.com/TonnyL/Espresso)
+  * [短信转发工具](https://github.com/HaoFeiWang/MessageRelayer)
