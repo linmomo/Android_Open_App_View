@@ -41,6 +41,7 @@
   * [一个超漂亮的音乐播放器！尤其是音频的可视化功能，超炫酷](https://github.com/harjot-oberai/MusicStreamer)
   * [一款优雅的遵循 Material Design 的开源音乐播放器](https://github.com/hefuyicoder/ListenerMusicPlayer)
   * [Phonograph Music Player 开源啦，这可是一个拥有 百万级下载量的 Google Play 播放器](https://github.com/kabouzeid/Phonograph)
+  * [非官方 B 站客户端，相当良心哦](https://github.com/HotBitmapGG/bilibili-android-client)
 * 天气
   * [RxJava+RxAndroid+Retrofit+Glide+Material Design Weather App](https://github.com/xcc3641/SeeWeather)
   * [一款简洁，实用，美观的天气应用，通过源码还能学到更多(自定义View)](https://github.com/SilenceDut/KnowWeather)
