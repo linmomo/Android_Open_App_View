@@ -48,6 +48,7 @@
   
 * Other
   * [Bmob im sdk开源](https://github.com/bmob/bmob-android-im-sdk)
+  * [CNode社区非官方客户端 ](https://github.com/shellljx/CNode-android)
   * [AppPlus是一个可以用于传送Apk文件，提取APK文件等的工具软件](https://github.com/maoruibin/AppPlus/blob/master/doc/README_CN.md)
   * [Android项目实战，手机安全小卫士](https://github.com/msAndroid/MobileSafer)
   * [开源的 Material Design 豆瓣客户端](https://github.com/DreaminginCodeZH/Douya)
