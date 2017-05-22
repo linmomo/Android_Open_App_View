@@ -1,7 +1,7 @@
 # Android_Open_App_View
 搜集整理工作中遇到开源APP和自定义控件资源，用于以后学习使用。
 
-##**开源APP**
+## **开源APP**
 
 * 知乎日报/新闻类
   * [高仿知乎日报](https://github.com/iKrelve/KuaiHu)
@@ -71,6 +71,7 @@
   * [虽然是个简单的 Android App，但是几乎囊括了多数很酷的 Android 库和开发方法，测试方法，相当赞的一个值得学习的项目](https://github.com/athkalia/Just-Another-Android-App) 
   * [基于MVP架构和Material Design设计风格，采用RxJava2, Retrofit2, Realm and ZXing开发的快递查询App](https://github.com/TonnyL/Espresso)
   * [短信转发工具](https://github.com/HaoFeiWang/MessageRelayer)
+  * [Tucao.tv 自制第三方Android客户端，Kotlin+DataBinding+RxJava+Dagger2+Retrofit，还有酷酷的Material Design Transition~ ](https://github.com/blackbbc/Tucao)
   
 * 完整的参考项目
   * [Awesome Android Complete Reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)  
