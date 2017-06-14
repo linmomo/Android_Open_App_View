@@ -56,6 +56,7 @@
   * [Android项目实战，手机安全小卫士](https://github.com/msAndroid/MobileSafer)
   * [开源的 Material Design 豆瓣客户端](https://github.com/DreaminginCodeZH/Douya)
   * [微信抢红包外挂源码](https://github.com/lendylongli/qianghongbao)
+  * [微信抢红包插件](https://github.com/geeeeeeeeek/WeChatLuckyMoney)
   * [Coding Android 客户端源代码](https://coding.net/u/coding/p/Coding-Android/git)
   * [使用Rxjava重构煎蛋高仿](https://github.com/ZhaoKaiQiang/JianDanRxJava)
   * [贴纸标签相机,功能:拍照,相片裁剪,给图片贴贴纸,打标签](https://github.com/Skykai521/StickerCamera)
