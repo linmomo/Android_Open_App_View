@@ -36,6 +36,7 @@
   * [sailorcast - 水手放映室 是一个面向Android设备的互联网免费视频播放客户端](https://github.com/fire3/sailorcast)
   * [一个超棒的 Android Music Player](https://github.com/ryanhoo/StylishMusicPlayer)
   * [1、仿泰捷视频最新TV版 Metro UI效果. 2、仿腾讯视频TV版(云视听·极光) 列表页](https://github.com/hejunlin2013/TVSample)	
+  * [Tucao.tv 自制第三方Android客户端，Kotlin+DataBinding+RxJava+Dagger2+Retrofit，还有酷酷的Material Design Transition~ ](https://github.com/blackbbc/Tucao)
   * [非常漂亮的一款 Android Movie 工具](https://github.com/lawloretienne/MovieHub)
   * [仿网易云音乐 安卓版](https://github.com/aa112901/remusic)
   * [波尼音乐 ](https://github.com/wangchenyan/PonyMusic)
@@ -49,7 +50,8 @@
   
 * Other
   * [Bmob im sdk开源](https://github.com/bmob/bmob-android-im-sdk)
-  * [CNode社区非官方客户端 ](https://github.com/shellljx/CNode-android)
+  * [国外知名Kickstarter for Android客户端](https://github.com/kickstarter/android-oss)
+  * [CNode社区非官方客户端 ](https://github.com/shellljx/CNode-android)
   * [AppPlus是一个可以用于传送Apk文件，提取APK文件等的工具软件](https://github.com/maoruibin/AppPlus/blob/master/doc/README_CN.md)
   * [Android项目实战，手机安全小卫士](https://github.com/msAndroid/MobileSafer)
   * [开源的 Material Design 豆瓣客户端](https://github.com/DreaminginCodeZH/Douya)
@@ -62,6 +64,7 @@
   * [一个轻量级的手写板Demo](https://github.com/SmartDengg/SmartDrawing)
   * [android-boilerplate 使用RxJava+Retrofit+MVP的app，并了结合详细的测试用例](https://github.com/hitherejoe/Android-Boilerplate)
   * [一个稳定好用的android计步器源代码](https://github.com/xfmax/BasePedo)
+  * [Android精准计步器](https://github.com/linglongxin24/DylanStepCount)
   * [轻量级显示Github用户的贡献、星数、Follower数、热门仓库的App](https://github.com/Nightonke/GithubWidget/blob/master/README-ZH.md)
   * [一个恋爱社交APP，MVP+RxJava+Dagger2+LeanCloud+MaterialDesign ](https://github.com/rogerou/Baby)
   * [一个制作明信片图片的app](https://github.com/hugeterry/superXingPostCard)
@@ -70,8 +73,6 @@
   * [一个完整的生日管理 App: UPMiss 开源了](https://github.com/qiujuer/UPMiss)
   * [虽然是个简单的 Android App，但是几乎囊括了多数很酷的 Android 库和开发方法，测试方法，相当赞的一个值得学习的项目](https://github.com/athkalia/Just-Another-Android-App) 
   * [基于MVP架构和Material Design设计风格，采用RxJava2, Retrofit2, Realm and ZXing开发的快递查询App](https://github.com/TonnyL/Espresso)
-  * [短信转发工具](https://github.com/HaoFeiWang/MessageRelayer)
-  * [Tucao.tv 自制第三方Android客户端，Kotlin+DataBinding+RxJava+Dagger2+Retrofit，还有酷酷的Material Design Transition~ ](https://github.com/blackbbc/Tucao)
   
 * 完整的参考项目
   * [Awesome Android Complete Reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)  
