@@ -10,6 +10,7 @@
     * [闲暇(Leisure)是一款集"知乎日报"、“果壳科学人”、“新华网新闻”以及“豆瓣图书”于一体的阅读类Android应用](https://github.com/MummyDing/Leisure)   * [知乎日报客户端，Rxjava + Retrofit实践](https://github.com/Runpop/RxZhihuPager)
     * [DAILY是一个非官方的基于MVVM架构的知乎日报APP-dagger2,data binding](https://github.com/liuguangqiang/Idaily)
     * [新闻阅读，练习MVP模式开发应用，使用Retrofit和Okhttp实现无网读缓存，有网根据过期时间重新请求](https://github.com/oubowu/OuNews)
+    * [一款简洁设计的资讯应用Now](https://github.com/XunMengWinter/Now)
 * Gank系列
     * [gank.io非官方客户端，使用RxJava & Retrofit](https://github.com/drakeet/Meizhi)
     * [gank.io开源项目](https://github.com/oxoooo/mr-mantou-android)
