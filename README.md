@@ -43,6 +43,7 @@
     * [波尼音乐 ](https://github.com/wangchenyan/PonyMusic)
     * [一个超漂亮的音乐播放器！尤其是音频的可视化功能，超炫酷](https://github.com/harjot-oberai/MusicStreamer)
     * [一款优雅的遵循 Material Design 的开源音乐播放器](https://github.com/hefuyicoder/ListenerMusicPlayer)
+    * [一款非常漂亮的 Material Design 风格的音乐播放器](https://github.com/aliumujib/Orin)
     * [Phonograph Music Player 开源啦，这可是一个拥有 百万级下载量的 Google Play 播放器](https://github.com/kabouzeid/Phonograph)
     * [非官方 B 站客户端，相当良心哦](https://github.com/HotBitmapGG/bilibili-android-client)
 * 天气
