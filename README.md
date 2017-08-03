@@ -49,6 +49,7 @@
 * 天气
     * [RxJava+RxAndroid+Retrofit+Glide+Material Design Weather App](https://github.com/xcc3641/SeeWeather)
     * [一款简洁，实用，美观的天气应用，通过源码还能学到更多(自定义View)](https://github.com/SilenceDut/KnowWeather)
+    * [轻量 Youtube 客户端 ](https://github.com/TeamNewPipe/NewPipe)
   
 * Other
     * [Bmob im sdk开源](https://github.com/bmob/bmob-android-im-sdk)
