@@ -46,10 +46,10 @@
     * [一款非常漂亮的 Material Design 风格的音乐播放器](https://github.com/aliumujib/Orin)
     * [Phonograph Music Player 开源啦，这可是一个拥有 百万级下载量的 Google Play 播放器](https://github.com/kabouzeid/Phonograph)
     * [非官方 B 站客户端，相当良心哦](https://github.com/HotBitmapGG/bilibili-android-client)
+    * [轻量 Youtube 客户端 ](https://github.com/TeamNewPipe/NewPipe)
 * 天气
     * [RxJava+RxAndroid+Retrofit+Glide+Material Design Weather App](https://github.com/xcc3641/SeeWeather)
     * [一款简洁，实用，美观的天气应用，通过源码还能学到更多(自定义View)](https://github.com/SilenceDut/KnowWeather)
-    * [轻量 Youtube 客户端 ](https://github.com/TeamNewPipe/NewPipe)
   
 * Other
     * [Bmob im sdk开源](https://github.com/bmob/bmob-android-im-sdk)
