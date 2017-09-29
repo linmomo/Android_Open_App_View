@@ -79,6 +79,7 @@
     * [基于MVP架构和Material Design设计风格，采用RxJava2, Retrofit2, Realm and ZXing开发的快递查询App](https://github.com/TonnyL/Espresso)
     * [目前最漂亮的一个 Dribbble 客户端，不能更好看](https://github.com/gejiaheng/Protein)
     * [少见的 Android 游戏开源项目，沙漠风暴](https://github.com/HurTeng/StormPlane)
+    * [比官方更像官方的NationalGeographic国家地理-每日精选客户端](https://github.com/wheat7/NationalGeographic)
   
 * 完整的参考项目
     * [Awesome Android Complete Reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)  
