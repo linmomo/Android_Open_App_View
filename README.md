@@ -11,6 +11,7 @@
     * [DAILY是一个非官方的基于MVVM架构的知乎日报APP-dagger2,data binding](https://github.com/liuguangqiang/Idaily)
     * [新闻阅读，练习MVP模式开发应用，使用Retrofit和Okhttp实现无网读缓存，有网根据过期时间重新请求](https://github.com/oubowu/OuNews)
     * [一款简洁设计的资讯应用Now](https://github.com/XunMengWinter/Now)
+    
 * Gank系列
     * [gank.io非官方客户端，使用RxJava & Retrofit](https://github.com/drakeet/Meizhi)
     * [gank.io开源项目](https://github.com/oxoooo/mr-mantou-android)
@@ -80,7 +81,7 @@
     * [目前最漂亮的一个 Dribbble 客户端，不能更好看](https://github.com/gejiaheng/Protein)
     * [少见的 Android 游戏开源项目，沙漠风暴](https://github.com/HurTeng/StormPlane)
     * [比官方更像官方的NationalGeographic国家地理-每日精选客户端](https://github.com/wheat7/NationalGeographic)
-    * [使用 Kotlin 实现的一个 Dribbble 客户端 ](https://github.com/armcha/Ribble)
+    * [使用 Kotlin 实现的一个 Dribbble 客户端 ](https://github.com/armcha/Ribble)
    
 * 完整的参考项目
     * [Awesome Android Complete Reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)  
